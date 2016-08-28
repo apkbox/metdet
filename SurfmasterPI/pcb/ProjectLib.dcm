@@ -1,0 +1,110 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4066
+D CMOS Quad Bilateral Switch
+F http://www.ti.com/lit/ds/symlink/cd4066b.pdf
+$ENDCMP
+#
+$CMP 4093
+D Quad Nand 2 inputs Schmitt trigger
+K CMOS Nand2
+$ENDCMP
+#
+$CMP ICL7660
+D CMOS Voltage Converter
+F http://www.intersil.com/content/dam/Intersil/documents/icl7/icl7660.pdf
+$ENDCMP
+#
+$CMP IRF9640
+D Transistor P-MOSFET (general)
+K pmos p-mos p-mosfet transistor
+$ENDCMP
+#
+$CMP LM555N
+D 555-series timer IC
+K timer
+F ns/lm555.pdf
+$ENDCMP
+#
+$CMP LM78L05ACZ
+D Positive 100mA 30V Linear Regulator, Fixed Output 5V, TO-92
+K Voltage Regulator 100mA Positive
+F http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf
+$ENDCMP
+#
+$CMP LM78L12ACZ
+D Positive 100mA 30V Linear Regulator, Fixed Output 12V, TO-92
+K Voltage Regulator 100mA Positive
+F http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf
+$ENDCMP
+#
+$CMP MC78L05AACP
+D Positive 100mA 30V Linear Regulator, Fixed Output 5V, Highest Accurate, TO-92
+K Voltage Regulator 100mA Positive Highest Accurate
+F http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf
+$ENDCMP
+#
+$CMP MC78L05ACP
+D Positive 100mA 30V Linear Regulator, Fixed Output 5V, TO-92
+K Voltage Regulator 100mA Positive
+F http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf
+$ENDCMP
+#
+$CMP MC78L06ACP
+D Positive 100mA 30V Linear Regulator, Fixed Output 6V, TO-92
+K Voltage Regulator 100mA Positive
+F http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf
+$ENDCMP
+#
+$CMP MC78L08ACP
+D Positive 100mA 30V Linear Regulator, Fixed Output 8V, TO-92
+K Voltage Regulator 100mA Positive
+F http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf
+$ENDCMP
+#
+$CMP MC78L12ACP
+D Positive 100mA 30V Linear Regulator, Fixed Output 12V, TO-92
+K Voltage Regulator 100mA Positive
+F http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf
+$ENDCMP
+#
+$CMP MC78L15ACP
+D Positive 100mA 30V Linear Regulator, Fixed Output 15V, TO-92
+K Voltage Regulator 100mA Positive
+F http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf
+$ENDCMP
+#
+$CMP MC78L18ACP
+D Positive 100mA 30V Linear Regulator, Fixed Output 18V, TO-92
+K Voltage Regulator 100mA Positive
+F http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf
+$ENDCMP
+#
+$CMP MC78L24ACP
+D Positive 100mA 30V Linear Regulator, Fixed Output 24V, TO-92
+K Voltage Regulator 100mA Positive
+F http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf
+$ENDCMP
+#
+$CMP MPSA13
+D Darlington NPN transistor
+K Q
+$ENDCMP
+#
+$CMP NE5534
+D Op amp.
+K AmpliOp
+$ENDCMP
+#
+$CMP NE555
+D 555-series timer IC
+K timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP ZENER
+D Diode zener
+K DEV DIODE
+$ENDCMP
+#
+#End Doc Library
