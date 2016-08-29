@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source D:\Projects\metdet\SurfmasterPI\pcb\SurfmasterPI_pro.sch)
-    (date "28/08/2016 11:50:50 PM")
+    (source D:/Projects/work/github/apkbox/metdet/SurfmasterPI/pcb/SurfmasterPI_pro.sch)
+    (date "8/29/2016 12:11:15 PM")
     (tool "Eeschema 4.0.3-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -707,12 +707,12 @@
         (pin (num 1) (name ~) (type passive))
         (pin (num 2) (name ~) (type passive)))))
   (libraries
+    (library (logical ProjectLib)
+      (uri D:\Projects\work\github\apkbox\metdet\SurfmasterPI\pcb\ProjectLib.lib))
     (library (logical device)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\device.lib"))
     (library (logical conn)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\conn.lib"))
-    (library (logical ProjectLib)
-      (uri D:\Projects\metdet\SurfmasterPI\pcb\ProjectLib.lib))
     (library (logical linear)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\linear.lib")))
   (nets
